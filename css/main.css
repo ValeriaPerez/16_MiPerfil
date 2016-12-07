@@ -11,7 +11,7 @@
 }
 ul{
 	text-align: center;
-	font-size: 13px;
+	font-size: 50px;
 }
 li{
 	text-decoration: none;
@@ -19,10 +19,10 @@ li{
 	padding: 1%;
 	padding-top: 2%;
 	padding-right: %;
-	font-size: 20px;
 }
 .foto{
-	width: 100%;
+	width: 50%;
+	border-radius: 100%;
 	text-align: right;
 	border-style: double;
 }
@@ -38,9 +38,17 @@ li{
 	text-align: center;
 }
 .bola{
-	width: 100%;
+	width: 50%;
 	border-radius: 100%;
 	border-style: double;
+}
+p{
+	font-size: 30px;
+}
+.ico-socio{
+	height: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 .yo{
 	background-image: url("../images/tile1.png");
@@ -50,7 +58,8 @@ li{
 	background-image: url("../images/tile2.png");
 }
 h2{
-	padding-top: 30px;	
+	padding-top: 30px;
+	font-size: 45px;
 }
 .pa{
 	margin: 60px;
